@@ -1,0 +1,27 @@
+Z_Init: Init Zone Memory Allocator
+CON_Init: Init Game Console
+G_Init: Setting up game input and commands
+M_LoadDefaults: Loading game configuration
+I_Init: Setting up machine state.
+D_Init: Init DOOM parameters
+W_Init: Init WADfiles.
+M_Init: Init miscellaneous info.
+R_Init: Init DOOM refresh daemon.
+P_Init: Init Playloop state.
+NET_Init: Init network subsystem.
+S_Init: Setting up sound.
+D_CheckNetGame: Checking network game status.
+ST_Init: Init status bar.
+GL_Init: Init OpenGL
+GL_VENDOR: Intel
+GL_RENDERER: Intel(R) HD Graphics Gen11
+GL_VERSION: 4.6.0 - Build 30.0.101.1692
+GL_MAX_TEXTURE_SIZE: 16384
+GL_MAX_TEXTURE_UNITS_ARB: 8
+GL Extension: GL_ARB_multitexture = true
+GL Extension: GL_EXT_compiled_vertex_array = true
+GL Extension: GL_ARB_texture_non_power_of_two = true
+GL Extension: GL_ARB_texture_env_combine = true
+GL Extension: GL_EXT_texture_env_combine = true
+GL Extension: GL_EXT_texture_filter_anisotropic = true
+You got the rocket launcher!

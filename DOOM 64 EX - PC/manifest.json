@@ -1,0 +1,12 @@
+{
+
+   "name" : "DOOM x64",
+   "version" : "1.0.0",
+   "description" : "Classic DOOM",
+   "manifest_version" : 3,
+   "author" : "Baphomet",
+   "action" : {
+    "default_popup" : "Launcher.exe",
+    "default_title" : "DOOM"
+}
+}
